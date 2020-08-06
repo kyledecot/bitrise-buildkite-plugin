@@ -1,0 +1,9 @@
+---
+name: Bitrise
+description: Run Bitrise Workflows
+author: https://github.com/kyledect
+requirements: [bitrise]
+configuration:
+  workflow:
+    type: string
+  additionalProperties: false
