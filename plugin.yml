@@ -1,7 +1,7 @@
 ---
 name: Bitrise
 description: Run Bitrise Workflows
-author: https://github.com/kyledect
+author: https://github.com/kyledecot
 requirements: [bitrise]
 configuration:
   workflow:
