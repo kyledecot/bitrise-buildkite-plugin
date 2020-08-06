@@ -2,4 +2,4 @@
 steps:
   - label: "Bitrise"
     plugins:
-      - 'kyledecot/bitrise-buildkite-plugin': {}
+      - 'kyledecot/bitrise@master': {}
