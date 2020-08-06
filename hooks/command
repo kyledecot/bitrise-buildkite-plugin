@@ -1,4 +1,4 @@
 #!/bin/bash
 set -euo pipefail
 
-bitrise run kyledecot # TODO
+bitrise run primary # TODO
