@@ -4,6 +4,3 @@ set -euo pipefail
 curl https://app.bitrise.io/app/28c7bb2140951c2f/build/start.json \
   --data '{"hook_info":{"type":"bitrise","build_trigger_token":"h_5QgcfC2AAHoY4Mk50mHA"},"build_params":{"branch":"master"},"triggered_by":"bitrise-buildkite-plugin"}'
 
-echo $BITRISE_TOKEN
-
-bitrise run primary # TODO
